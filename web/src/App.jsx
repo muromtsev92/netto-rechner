@@ -8,7 +8,7 @@ export default function App() {
         }}>
             <section style={{textAlign: 'center'}}>
                 <h1>Netto-Rechner für Deutschland</h1>
-                <p>v0.1 — стартовая страница локально через Traefik.</p>
+                <p>v0.1 — стартовая страница </p>
             </section>
         </main>
     )
